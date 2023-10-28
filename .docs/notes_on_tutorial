@@ -4,4 +4,8 @@ Set up from scratch; moved rewoodblog folder from default location in root direc
 RedwoodJS folder in the Documents folder after setting up and running yarn rw dev the first time.
 No issues with the move other than having to browse to the correct directory before running yarn rw dev again
 
-Created first commit in git -
+Created first commit in git - had to remove folder on local drive and clone the git repo to sort out the connection;
+Doesn't seem to work when you initiate a repo from `VSCode`
+
+set up first and second pages, links to each other, routes;
+
